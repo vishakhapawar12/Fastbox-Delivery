@@ -1,0 +1,2 @@
+# No external dependencies — uses Python 3.8+ standard library only.
+# (json, math, csv, os, sys, random)
